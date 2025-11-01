@@ -31,9 +31,6 @@ useEffect(() => {
 
 
 
-
-
-
     return (
     <div className="md:flex gap-10">
 
