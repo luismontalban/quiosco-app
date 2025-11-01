@@ -15,7 +15,6 @@ const [cantidad, setCantidad] = useState(1)
 const [edicion, setEdicion] = useState(false)
 
 
-
 useEffect(() => {
 
     if (pedido.some((pedidoState) => pedidoState.id === producto.id)) 
